@@ -2,7 +2,7 @@
 
 - 💻🤔💭 I currently use for my projects:
   - Languages: C, C++, Java, Python, SQL
-  - Tools: Git, Linux, VSCode, IntelliJ
+  - Tools: Git, Linux, VSCode, IntelliJ, Android Studio
 - 🌱 I’m currently learning Embedded Computing, Computer Networks and Machine Learning
 - 👀 I’m interested in:
   - Embedded Systems, IoT, Data Visualisation, 
