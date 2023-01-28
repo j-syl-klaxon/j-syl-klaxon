@@ -6,8 +6,10 @@
 - 🌱 I’m currently learning Embedded Computing, Computer Networks and Machine Learning
 - 👀 I’m interested in:
   - Embedded Systems, IoT, Data Visualisation, 
+<!---
   - Game AI, Text (or Diagram) Analysis and Generation, 
   - Audio Manipulation (Speech Recognition, Speech Synthesis, Source Separation)
+--->
 - 💞️ I’m looking to collaborate on the above interests
 - 📫 How to reach me: 
   - Discord: m.tinsel#1441
