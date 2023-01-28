@@ -5,7 +5,7 @@
   - Tools: Git, Linux, VSCode, IntelliJ, Android Studio
 - 🌱 I’m currently learning Embedded Computing, Computer Networks and Machine Learning
 - 👀 I’m interested in:
-  - Embedded Systems, IoT, Data Visualisation, 
+  - Embedded Systems, IoT, Data Visualisation
 - 💞️ I’m looking to collaborate on the above interests
 - 📫 How to reach me: 
   - Discord: m.tinsel#1441
