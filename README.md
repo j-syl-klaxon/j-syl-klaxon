@@ -13,6 +13,7 @@
 <!---
   - Game AI, Text (or Diagram) Analysis and Generation, 
   - Audio Manipulation (Speech Recognition, Speech Synthesis, Source Separation)
+  - Productivity-based Mozilla Plugins, Security-based Android Apps
 --->
 
 <!---
