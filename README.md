@@ -7,10 +7,11 @@
 - 👀 I’m interested in:
   - Embedded Systems, IoT, Data Visualisation
 - 💞️ I’m looking to collaborate on the above interests
-- 📫 How to reach me: 
-  - Discord: m.tinsel#1441
+
 
 <!---
+  - 📫 How to reach me: 
+  - Discord: m.tinsel#1441
   - Game AI, Text (or Diagram) Analysis and Generation, 
   - Audio Manipulation (Speech Recognition, Speech Synthesis, Source Separation)
   - Productivity-based Mozilla Plugins, Security-based Android Apps
