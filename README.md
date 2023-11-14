@@ -1,7 +1,7 @@
 👋 Hi, I’m @jeffrey-g4. Welcome!
 
 - 💻🤔💭 I currently use for my projects:
-  - Languages: C, C++, Java, Python, SQL
+  - Languages: C, C++, Java, Python, SQL, JavaScript
   - Tools: Git, Linux, VSCode, IntelliJ, Android Studio
 - 🌱 I’m currently learning Embedded Computing, Computer Networks and Machine Learning
 - 👀 I’m interested in:
