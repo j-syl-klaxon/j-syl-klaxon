@@ -1,4 +1,4 @@
-👋 Hi, I’m @jeffrey-g4. Welcome!
+👋 Hi, I’m Jeffrey. Welcome!
 
 - 💻🤔💭 I currently use for my projects:
   - Languages: C, C++, Java, Python, SQL, JavaScript
