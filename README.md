@@ -1,8 +1,8 @@
 👋 Hi, I’m Jeffrey. Welcome!
 
 - 💻🤔💭 I currently use for my projects:
-  - Languages: C, C++, Java, Python, SQL, JavaScript
-  - Tools: Git, Linux, VSCode, IntelliJ, Android Studio
+  - Languages: C, C++, Java, Python, Bash, JavaScript
+  - Tools and Frameworks: Git, Linux, Make, CMake, VSCode, IntelliJ
 - 🌱 I’m currently learning Embedded Computing, Computer Networks and Machine Learning
 - 👀 I’m interested in:
   - Embedded Systems, IoT, Data Visualisation
@@ -12,7 +12,10 @@
 <!---
   - 📫 How to reach me: 
   - Discord: m.tinsel#1441
-  - Game AI, Text (or Diagram) Analysis and Generation, 
+  - Email: redferry_dev@gmail.com
+  - Reddit: redferry_dev
+  - YouTube: @redferry_dev
+  - Game AI, Text (or Diagram) Analysis and Generation, SQL
   - Audio Manipulation (Speech Recognition, Speech Synthesis, Source Separation)
   - Productivity-based Mozilla Plugins, Security-based Android Apps
 --->
